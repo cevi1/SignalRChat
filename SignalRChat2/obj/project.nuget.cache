@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTicSNnYESKA5/BnMwwVwpyuP9DRN2V5mc1XzptJlMkuI6u9wmPQ9z8mq8FoyvlEYikmcddsKnboRXD22pgvtA==",
+  "success": true,
+  "projectFilePath": "/Users/mac/github/SignalRChat/SignalRChat2/SignalRChat2/SignalRChat2.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
