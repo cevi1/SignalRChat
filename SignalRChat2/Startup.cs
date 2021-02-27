@@ -52,7 +52,7 @@ namespace SignalRChat2
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-                endpoints.MapHub<ChatHubs>("/chathub");
+                endpoints.MapHub<ChatHub>("/chathub");
             });
         }
     }

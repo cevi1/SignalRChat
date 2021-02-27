@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 namespace SignalRChat2.Hubs
 {
-    public class ChatHubs :Hub
+    public class ChatHub :Hub
     {
         public async Task SendMessage(string user, string message)
         {

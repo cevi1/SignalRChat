@@ -34,3 +34,4 @@
 /Users/mac/github/SignalRChat/SignalRChat2/SignalRChat2/obj/Debug/netcoreapp3.1/SignalRChat2.pdb
 /Users/mac/github/SignalRChat/SignalRChat2/SignalRChat2/obj/Debug/netcoreapp3.1/SignalRChat2.genruntimeconfig.cache
 /Users/mac/github/SignalRChat/SignalRChat2/SignalRChat2/obj/Debug/netcoreapp3.1/SignalRChat2.csproj.CopyComplete
+/Users/mac/github/SignalRChat/SignalRChat2/SignalRChat2/obj/Debug/netcoreapp3.1/SignalRChat2.csprojAssemblyReference.cache
